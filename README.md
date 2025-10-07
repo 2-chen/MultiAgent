@@ -10,6 +10,11 @@
 
 [**Multi-Actor Multi-Critic Deep Deterministic Reinforcement Learning with a Novel Q-Ensemble Method**](https://www.alphaxiv.org/abs/2510.01083v1) 2025.10
 
+* 同时训练多个“执行家”和多个“评论家”
+* 双目标选择执行动作：预期回报和创意性
+* 得分取所有评论家评分的中位数
+* actor学习时每一轮让不同critic评分，以前是一个actor和一个critic配对
+
 
 [**Synergy Over Spiral: A Logistics 5.0 Game-Theoretic Model for Trust-Fatigue Co-regulation in Human-Cobot Order Picking**](https://www.alphaxiv.org/abs/2508.03765v3) 2025.9
 
