@@ -61,6 +61,7 @@
 * 高效学习：真实世界交互成本高，如何实现高效的样本学习，以及如何从模拟有效迁移到现实
 * 通用框架：能处理多任务、多场景的通用多智能体具身AI框架
 * 评估与验证：缺乏标准化、可复现且贴近现实的评估体系，尤其是在安全性和可靠性方面
+* 马尔可夫博弈：环境的下一个状态取决于所有智能体同时执行的动作，每个智能体的奖励取决于自己的动作和其他所有智能体的动作
 
 [**Conformal Data-driven Control of Stochastic Multi-Agent Systems under Collaborative Signal Temporal Logic Specifications**](https://www.alphaxiv.org/abs/2504.04615) 2025.4
 
